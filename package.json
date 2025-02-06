@@ -1,0 +1,29 @@
+{
+  "name": "stranger-things-theme",
+  "displayName": "Stranger Things Theme",
+  "description": "Netflix Stranger Things theme for Visual Studio Code.",
+  "author": "Muhammad Abad",
+  "version": "0.0.1",
+  "publisher": "mohammadabad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/stranger-things-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stranger Things Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/STT-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/stranger-things-icon.png"
+} 

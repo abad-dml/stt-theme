@@ -1,0 +1,104 @@
+{
+	"name": "Stranger Things Theme - Playful Edition",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#0D0208",
+		"editor.foreground": "#FFEE00",
+		"editor.lineHighlightBackground": "#1A1A1A",
+		"editor.selectionHighlightBackground": "#f5a0b7",
+		"editorWhitespace.foreground": "#555555",
+		"editorIndentGuide.activeBackground1": "#FF0044",
+		"editorLineNumber.foreground": "#FFEE00",
+		"editorBracketMatch.background": "#FF0044",
+		"editorBracketMatch.border": "#FF0044",
+		"sideBar.background": "#111111",
+		"sideBar.foreground": "#FFEE00",
+		"sideBar.border": "#FF0044",
+		"sideBarSectionHeader.background": "#FF0044",
+		"sideBarSectionHeader.foreground": "#FFFFFF",
+		"sideBarTitle.foreground": "#FFEE00",
+		"editorCursor.foreground": "#FF0044",
+		"editorCursor.background": "#FF0044",
+		"editor.selectionBackground": "#FF0044",
+		"statusBar.background": "#FF0044",
+		"statusBar.foreground": "#FFFFFF",
+		"activityBar.background": "#111111",
+		"activityBar.foreground": "#FFEE00",
+		"activityBarBadge.background": "#FF0044",
+		"activityBarBadge.foreground": "#FFFFFF",
+		"tab.activeBackground": "#1A1A1A",
+		"tab.activeForeground": "#FFEE00",
+		"tab.inactiveBackground": "#111111",
+		"tab.inactiveForeground": "#777777",
+		"tab.border": "#FF0044",
+		"panel.background": "#111111",
+		"panel.border": "#FF0044",
+		"terminal.background": "#0D0208",
+		"terminal.foreground": "#FFEE00",
+		"terminalCursor.foreground": "#FF0044"
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#FF0044",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#FFEE00"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#FF0044",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#FF0044"
+			}
+		},
+		{
+			"scope": "function",
+			"settings": {
+				"foreground": "#FF0044"
+			}
+		},
+		{
+			"scope": "number",
+			"settings": {
+				"foreground": "#00FF44"
+			}
+		},
+		{
+			"scope": "operator",
+			"settings": {
+				"foreground": "#FFEE00"
+			}
+		},
+		{
+			"scope": "constant",
+			"settings": {
+				"foreground": "#00FF44"
+			}
+		},
+		{
+			"scope": "type",
+			"settings": {
+				"foreground": "#FF0044"
+			}
+		},
+		{
+			"scope": "support",
+			"settings": {
+				"foreground": "#FFEE00"
+			}
+		}
+	]
+}
